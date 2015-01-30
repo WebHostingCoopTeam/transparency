@@ -1,0 +1,59 @@
+client_id,status,firstname,lastname,companyname,email,address1,address2,city,state,postcode,country,phonenumber,currency,credit,taxexempt,latefeeoveride,overideduenotices,datecreated,lastlogin,ip
+1,Active,Eric,Hanson, ,erich493@gmail.com,1098 NW 5th Ave., ,Boca Raton,Florida,33432,US,5612131925,USD,0.00,0,0,0,2013-06-20,0000-00-00 00:00:00,76.108.148.164
+2,Active,Brian,Modansky, ,brian@webhosting.coop,1105 W Oltorf St, ,Austin,Texas,78704,US,561-302-2622,USD,0.00,0,0,0,2013-06-22,2014-02-12 06:40:39,70.112.125.127
+3,Active,Lotte,McGrath,HappyHollowGlass,happyhollowglass@gmail.com,1105 Hermitage Dr., ,Austin,Texas,78753,US,512-537-7263,USD,0.00,0,0,0,2013-06-30,2014-11-27 22:09:38,70.117.67.70
+4,Active,Michael,Sylvester, ,sylvester.michael@gmail.com,No. A, Bi Yu Lu, Bitao Yuan Villa, Tai zi Road, Shekou, Nanshan District, 518 067, Shenzhen, P. R. China, ,Shenzhen, , ,CN,(86) (755) 2686 7423,USD,0.00,0,0,0,2013-07-02,2013-10-16 03:13:29,121.15.86.239
+5,Active,John,Van Lowe, ,jvl@51in52.com,1105 w oltorf,NA,Austin,Texas,77084,US,512-655-9325,USD,0.00,0,0,0,2013-07-16,2014-10-29 16:15:04,65.67.51.185
+8,Active,Llorente,Navarrette, ,llo.nava@yahoo.com,704 E 18th St, ,Georgetown,Texas,78626,US,512-635-2419,USD,0.00,0,0,0,2013-08-02,2014-07-17 18:44:51,67.78.97.126
+9,Active,Duke,Leto, ,duke@leto.net,13 wrongway,null void,Portland,Oregon,98943,US,15039280609,USD,0.00,0,0,0,2013-08-02,0000-00-00 00:00:00,70.112.119.227
+20,Active,Gabriel,Krizin, ,gkrizin@spsinfo.com, , , ,Texas, ,US, ,USD,0.00,0,0,0,2013-08-20,2014-02-24 06:56:24,99.184.79.120
+22,Active,Chad,Fisher, ,chadfishercomedy@gmail.com, , ,Austin,Texas, ,US, ,USD,0.00,0,0,0,2013-08-26,2014-12-27 14:37:03,162.196.139.227
+24,Active,William,Swan, ,moneyboyzrec@gmail.com,4906 hawkhaven ln, ,Austin,Texas,78727,US,(512)608-7321,USD,0.00,0,0,0,2013-09-02,2015-01-13 23:38:27,108.218.247.21
+25,Active,David,Adair, ,david.k.adair@gmail.com,744 w. lois ct,Louisville,80027,Colorado,80027,US,3038868357,USD,0.00,0,0,0,2013-09-04,2014-05-30 08:17:46,98.191.72.98
+28,Active,Barry,Black, ,bwblack@mywol.com,12207 Donington Drive, ,Austin,Texas,78753,US,512-552-9428,USD,0.00,0,0,0,2013-09-28,2014-12-15 13:05:03,70.113.92.55
+29,Active,Travis,Knight, ,Villanoche@gmail.com,502 W Montgomery,Suite 4-134,Willis,Texas,77378,US,936-522-6723,USD,0.00,0,0,0,2013-10-07,2014-11-21 13:40:21,162.206.169.248
+30,Closed,Amanda,Little, ,amandalynnlittle@gmail.com,267 Macintosh Ave., ,Woodstock,Illinois,60098,US,8155290157,USD,0.00,0,0,0,2013-10-08,2013-10-08 16:37:12,98.206.49.185
+31,Active,Brandon,Fehrenkamp,AustinBees.Com,austinbeekeeper@gmail.com, , ,Austin,Texas, ,US,5125696270,USD,0.00,0,0,0,2013-10-11,0000-00-00 00:00:00,70.114.196.23
+32,Active,John,Edwards, ,foodisfreeproject@gmail.com,5608 Joe Sayers Ave, ,Austin,Texas,78756,US,512-919-9012,USD,0.00,0,0,0,2013-10-25,2014-09-30 14:31:10,66.90.151.175
+34,Active,Brian,Modansky,my orginazation,bmo@webhosting.coop,4711 Fort Moultrie Lane,Blah Blah,Austin,Texas,78754,US,561-302-2622,USD,0.00,0,0,0,2013-11-10,2013-11-10 15:28:57,70.112.119.227
+36,Closed,Brian,Modansky, ,testpaypal2@webhosting.coop,austin,austin,Austin,Texas,77012,US,512-484-0750,USD,75.00,0,0,0,2013-11-12,2013-11-12 12:24:14,70.114.196.23
+38,Active,Preston,Brezant, ,bezantster@gmail.com,10015 Lake Creek pkwy,apt. 437,Austin,Texas,78729,US,8173604868,USD,0.00,0,0,0,2013-11-14,2014-12-11 10:21:41,104.15.132.40
+39,Active,Texas,NORML,Texas Norml,texasnorml@gmail.com,Austin, ,Austin,Texas,78754,US,512-501-0939,USD,0.00,0,1,1,2013-11-14,2014-05-18 10:56:37,70.113.94.53
+40,Active,Barton,Hiatt,Gleaned Living,bartswindow@yahoo.com,1104 Redd St, ,Austin,Texas,78745,US,216-314-4700,USD,0.00,0,0,0,2013-11-25,2014-12-28 17:07:26,108.248.84.215
+41,Active,James,Moore, ,webtechhq@gmail.com,11500 Jollyville Rd.,3211,Austin,Texas,78759,US,5124361179,USD,0.00,0,0,0,2013-11-26,2014-09-15 20:21:39,72.177.5.168
+42,Active,John,Van Lowe, ,lolo2kx@gmail.com,1105 Oltorf, ,Austin,Texas,77004,US,512-484-0750,USD,0.00,0,0,0,2013-11-26,2013-11-26 17:32:35,70.114.196.23
+44,Active,paul,stagner, ,paulstagnerjr@gmail.com,7207 bethune ave se, ,Austin,Texas,78752,US,5127589094,USD,0.00,0,0,0,2013-12-01,2014-10-18 16:06:31,66.68.54.189
+45,Active,Christopher,Curry, ,hhstudiosnow@gmail.com,4006 Victoria Ave., ,Dickinson,Texas,77539,US,5098687639,USD,0.00,0,0,0,2013-12-01,2014-11-30 21:22:15,68.165.28.130
+46,Active,Houston,NORML,Houston NORML,houstonnorml@yahoo.com,6728 Blue Bottle Ln,Suite 420,Katy,Texas,77449,US,8325939160,USD,0.00,0,0,0,2013-12-02,2014-07-11 14:03:33,98.198.251.165
+53,Active,Sean,St. Heart,Charitable Humans,sean@charitablehumans.org,923 204TH PL S.E., ,Bothell,Washington,98012,US,+1 (206) 397-0473,USD,0.00,0,0,0,2014-01-18,2015-01-12 14:13:56,173.14.242.194
+54,Active,Fito,Kahn, ,arkiii@gmail.com,11601 Century Oaks Terrace,Apt#4104,Austin,Texas,78758,US,5127759270,USD,0.00,0,0,0,2014-01-25,2014-01-25 14:30:10,72.177.0.14
+55,Active,Jennifer,Leman, ,leman.jenny@gmail.com,2605 Grist Ln, ,Cedar Park,Texas,78613,US,512-924-6145,USD,0.00,0,0,0,2014-01-28,2014-12-09 21:16:11,75.13.84.65
+56,Active,Scott,Engle, ,scotty1111e@gmail.com,2133 Rachel Lane, ,Round Rock,Texas,78664,US,512-297-0152,USD,0.00,0,0,0,2014-02-03,0000-00-00 00:00:00,70.112.104.132
+57,Active,Parker,Mccuan,North Houston Norml,neonetgen@gmail.com,7954 longridge, ,houston,Texas,77055,US,7132612849,USD,0.00,0,0,0,2014-02-09,2014-12-01 16:07:08,76.31.52.215
+58,Active,Charlene,Vrieze,Minnesota Cooperative Education Foundation,charlene.vrieze@cooperativenetwork.coop,145 University Ave. W., Ste. 450, ,Saint Paul,Minnesota,55103-2044,US,651-209-8895,USD,0.00,0,0,0,2014-02-11,2014-04-30 13:47:40,50.241.58.225
+59,Active,DB,Quinlivan, ,atsunrise@gmail.com,1007 Travis St, ,Lockhart,Texas,78644,US,7042398372,USD,0.00,0,0,0,2014-02-16,2014-10-15 12:03:24,173.227.74.5
+61,Active,Jad,Wauthier, ,JTWauthier@gmail.com,701 W. Longspur Blvd, ,Austin,Texas,78753,US,5127439332,USD,0.00,0,0,0,2014-03-03,2014-03-03 06:52:28,75.92.55.227
+63,Active,Derek,Adair, ,derleek@gmail.com,4936 reiger ave,apt 1,Dallas,Texas,75214,US,303 886 8357,USD,0.00,0,0,0,2014-03-06,2014-09-30 13:12:36,70.123.123.169
+66,Active,Jonah,Fertig,Cooperative Fermentation,jonah.fertig@gmail.com,259 Log Cabin Rd., ,Arundel,Maine,04046,US,207-615-9970,USD,0.00,0,0,0,2014-03-19,2014-12-15 16:05:25,71.169.164.17
+68,Active,Sheldon,Dobson,Coinvertiser/Problem Solved,sbdsemail@gmail.com,3501 Touchstone St., ,Austin,Texas,78723,US,512.649.6858,USD,0.00,0,0,0,2014-03-25,2014-04-03 21:42:47,67.198.70.33
+69,Active,Barb,Mozejko, ,weelittletree_hosting@nym.hush.com,Austin, ,Austin,Texas,78754,US,866-512-2667,USD,0.00,0,0,0,2014-03-25,2014-03-27 07:23:43,97.79.134.210
+70,Active,Mathew,Stuesser,NORML-Corpus Christi,mathewstuesser@gmail.com,505 s. water st.,suite 525,Corpus Christi,Texas,78401,US,361-429-0329,USD,0.00,0,0,0,2014-03-26,2014-06-20 18:44:36,72.183.33.100
+71,Active,gregory,bailey, ,stan.underwood@freescale.com,6902 grove crest dr, ,austin,Texas,78736,US,5129199410,USD,0.00,0,0,0,2014-03-28,2014-05-06 12:22:52,173.172.119.246
+74,Active,Catharine,Chamberlain, ,clchamberlaincom@mac.com,2905 Castlebridge Dr., ,Mississauga,Ontario,L5M 5T2,CA,9058148705,USD,0.00,0,0,0,2014-04-02,2014-04-02 16:00:39,174.95.44.133
+77,Active,Kombucha,Mane, ,orders@kombuchamane.com,5608 Joe Sayers Ave, ,Austin,Texas,78756,US,512-484-0750,USD,0.00,0,0,0,2014-05-06,2014-05-29 11:25:49,97.77.123.141
+79,Active,Kevin,Hollingworth,Montana Council,kevin.hollingworth@hotmail.com,12 3rd street NW Suite 110, ,Great Falls,Montana,59404,US,406-217-2977,USD,0.00,0,0,0,2014-05-09,2014-05-09 11:39:58,208.79.20.17
+80,Active,Frank,Cetera,The Alchemical Nursery Project Inc.,info@alchemicalnursery.org,717 Otisco St, ,Syracuse,New York,13204,US,315-308-1372,USD,0.00,0,0,0,2014-05-13,2015-01-15 13:59:57,24.39.254.37
+82,Active,Corey,Abramowitz,gardenfly inc,Corey@gardenfly.com,2828 n central ave,SUITE 700,Phoenix,Arizona,85004,US,6232821359,USD,0.00,0,0,0,2014-05-20,2014-11-23 23:04:15,68.2.247.86
+85,Active,Dan,Fischtein,Provincial Protection Services Inc.,dan@daytonamotorsport.ca,4000 Steeles Ave W, Unit 12, ,Vaughan,Ontario,L4L 4V9,CA,416-509-0965,USD,0.00,0,0,0,2014-06-23,2015-01-15 14:03:18,99.248.140.37
+87,Closed,Dane,Hurt, ,danehurt@gmail.com,5608 Joe Sayers Ave, ,Austin,Texas,78756,US,281-935-0763,USD,0.00,0,0,0,2014-07-18,2014-07-18 20:10:31,66.90.151.175
+91,Active,WebHosting,Coop,WebHosting.Coop,coopadmin@webhosting.coop, , ,Austin,Texas, ,US,855-512-2667,USD,0.00,0,0,0,2014-07-23,0000-00-00 00:00:00,66.90.151.175
+94,Active,Rob,Greenfield, ,info@RobGreenfield.tv,PO Box 70041, ,San Diego,California,92167,US,6195379043,USD,0.00,0,0,0,2014-08-06,2014-12-17 02:38:42,76.167.200.34
+95,Active,Michelle,Hernandez,Funny Farm Industries,jssllc@gmail.com,8500 Bear Creek Dr, ,Austin,Texas,78737,US,512.394.8494,USD,0.00,0,0,0,2014-08-07,2014-11-13 06:23:55,70.112.196.126
+96,Active,Josh,Cox, ,uberthoth@gmail.com,1105 W Oltorf, ,Austin,Texas,78704,US,4324669688,USD,0.00,0,0,0,2014-08-21,2014-08-21 22:37:20,74.197.212.249
+97,Active,Travis,Knight, ,travis@freshability.com,509 Hummingbird Lane, ,Austin,Texas,78734,US,936-522-6723,USD,0.00,0,0,0,2014-08-26,2014-11-11 07:48:59,162.206.169.248
+102,Active,Kim,Coontz,Worker Coop,ekcoontz@cccd.coop,514 South I Street, ,Lompoc,California,93436,US,530-219-8460,USD,0.00,0,0,0,2014-09-21,2014-09-30 23:35:38,128.138.65.170
+103,Closed,sad,dai,azerrrr,jody_erickson12@yahoo.com,dzfsf,fsfs,tanger,New York,90001,US,0610253698,USD,0.00,0,0,0,2014-10-02,2014-10-02 13:32:38,207.244.72.195
+104,Active,Corey,Mendes,Southeast Texas N.O.R.M.L.,setx.norml@gmail.com,8340 Old Voth Rd, ,Beaumont,Texas,77708,US,4094667237,USD,0.00,0,0,0,2014-10-24,2014-11-13 21:43:14,66.25.230.80
+106,Active,Jonathan,Raby,STUDIO CRÉATIF COLOC- COOP DE TRAVAIL,info@coloc.coop,900 BOUL DE LA CARRIERE BUREAU 103, ,Gatineau,Quebec,J8Y 6T5,CA,8197780002,USD,0.00,0,0,0,2014-11-19,2015-01-16 13:23:55,96.21.75.96
+109,Active,Charles,Pellett,Freshwater Farms LLC,freshwaterfarmers@gmail.com,403 Coneross Ave, ,Seneca,South Carolina,29678,US,864 722 3212,USD,0.00,0,0,0,2014-12-14,2014-12-26 12:14:25,24.246.146.196
+110,Active,Serene,Hammond, ,serene@techie.com,1712 E. Riverside Dr, ,Austin,Texas,78741,US,2067361377,USD,0.00,0,0,0,2015-01-06,2015-01-07 14:33:38,72.182.62.43

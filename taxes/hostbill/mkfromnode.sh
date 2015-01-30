@@ -1,0 +1,1 @@
+ledger-import --file /path/to/transactions.csv --account 'Assets:Current Account' --ledger /path/to/ledger.dat --currency '£' --contains-header --date-column 1 --date-format 'DD/MM/YYYY' --payee-column 2 --amount-column 3

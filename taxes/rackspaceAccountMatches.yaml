@@ -1,0 +1,65 @@
+# This is YAML for the Account Matching table.
+# The first entry is a regexp to match a CSV record postprocessing.
+# Second entry is the source account (~ for default).
+# Third entry is destination account.
+# Order is important, the first matching accounts are used.
+#---
+#- 'm/Barber/'
+#- 'Assets:Personal Grooming'
+#- 'Expenses:Hair'
+---
+-  'm/SSL Certificates(\ )*-(\ )*Comodo Essential SSL/'
+-  ''
+-  'Income:MemberSales:SSL_Certificates-Comodo_Essential_SSL'
+---
+-  'm/Domain(:)* Transfer/'
+-  ''
+-  'Income:MemberSales:Domain_Transfer'
+---
+-  'm/Domain Purchase/'
+-  ''
+-  'Income:MemberSales:Domain_Purchase'
+---
+-  'm/Domain Registration/'
+-  ''
+-  'Income:MemberSales:Domain_Registration'
+---
+-  'm/Domain Renewal/'
+-  ''
+-  'Income:MemberSales:Domain_Renewal'
+---
+-  'm/Web Hosting(\ )*-(\ )*WebHosting.Coop Membership/'
+-  ''
+-  'Income:MemberSales:MembershipDues'
+---
+-  'm/Dedicated IP Address/'
+-  ''
+-  'Income:MemberSales:DedicatedIP'
+---
+-  'm/Discount:/'
+-  ''
+-  'Discount:MemberSales:Discount'
+---
+-  'm/SSL Certificates - GeoTrust RapidSSL/'
+-  ''
+-  'Income:MemberSales:SSL_Certificates-GeoTrust_RapidSSL'
+---
+-  'm/Web Hosting(\ )*-(\ )*Coop Hosting Services/'
+-  ''
+-  'Income:MemberSales:Coop_Hosting_Services'
+---
+-  'm/Ref: Support Request/'
+-  ''
+-  'Support:MemberServices:ReferencedSupportRequest'
+---
+-  'm/Transfer: .* 1 Yr \+ Privacy/'
+-  ''
+-  'Support:MemberServices:Transfer1yrPrivacy'
+---
+-  'm/1 Yr \+ Privacy/'
+-  ''
+-  'Support:MemberServices:Transfer1yrPrivacy'
+---
+-  'm/SSL Certificates - Comodo Wildcard SSL/'
+-  ''
+-  'Income:MemberSales:SSL_Certificates_Comodo_Wildcard_SSL'
